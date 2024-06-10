@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ulisses;I'm+18+years+old;I'm+from+Brazil;I'm+a+Developing;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ulisses;I'm+19+years+old;I'm+from+Brazil;I'm+a+Developing;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **a project using Unity**
-- 🌱 I’m currently learning **C#, PHP**
+<!-- 🔭 I’m currently working on **a project using Unity**-->
+- 🌱 I’m currently learning **Python, PHP**
 - 💬 Ask me about **JavaScript, HTML/CSS**
 - 📫 How to reach me **ulisses.eufrauzino@gmail.com**
 - 👨‍💻 My hobbies are **chatting, music, read and gaming**
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,unity,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,unity,vscode,python" />
   </a>
 </p>
 
